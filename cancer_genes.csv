@@ -1,0 +1,821 @@
+gene_symbol,chromosome,gene_name,gene_count
+GSTM1,1,"Glutathione S-transferase M1",164
+MTHFR,1,"Chromosome 1 open reading frame 167",82
+EPHX1,1,"Epoxide hydrolase 1, microsomal (xenobiotic)",57
+IL10,1,"Interleukin 10",42
+PTGS2,1,"Prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)",38
+MTR,1,"5-methyltetrahydrofolate-homocysteine methyltransferase",31
+GSTM3,1,"Glutathione S-transferase M3 (brain)",29
+MUTYH,1,"MutY homolog (E. coli)",22
+TP73,1,"Tumor protein p73",15
+RNASEL,1,"Ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)",13
+MYCL1,1,"v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian)",13
+FASLG,1,"Fas ligand (TNF superfamily, member 6)",12
+PARP1,1,"poly (ADP-ribose) polymerase family, member 1",11
+SDHB,1,"Succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",8
+NRAS,1,"Neuroblastoma RAS viral (v-ras) oncogene homolog",8
+FCGR3A,1,"Fc fragment of IgG, low affinity IIIa, receptor (CD16a)",7
+LEPR,1,"Leptin receptor",6
+SDHC,1,"Succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa",5
+HSD3B2,1,"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2",5
+FMO3,1,"Flavin containing monooxygenase 3",4
+HSD3B1,1,"Hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1",4
+DPYD,1,"SEC63-like (S. cerevisiae)",3
+FMO2,1,"Flavin containing monooxygenase 2",3
+MUC1,1,"Mucin 1, transmembrane",3
+EXO1,1,"Exonuclease 1",3
+RAD54L,1,"RAD54-like (S. cerevisiae)",3
+CASP9,1,"Caspase 9, apoptosis-related cysteine peptidase",3
+FCGR2A,1,"Fc fragment of IgG, low affinity IIa, receptor (CD32)",3
+MYCL1,1,"homolog 1, lung carcinoma derived (avian)",2
+GSTM4,1,"Glutathione S-transferase M4",2
+EPHB2,1,"EPH receptor B2",2
+TNFRSF1B,1,"Tumor necrosis factor receptor superfamily, member 1B",2
+F5,1,"Coagulation factor V (proaccelerin, labile factor)",2
+SMYD3,1,"SET and MYND domain containing 3",2
+PIGR,1,"Polymeric immunoglobulin receptor",2
+SAI1,1,"suppression of anchorage independence 1",2
+CRP,1,"C-reactive protein, pentraxin-related",2
+PLA2G2A,1,"Phospholipase A2, group IIA (platelets, synovial fluid)",2
+RGS2,1,"Regulator of G-protein signalling 2, 24kDa",2
+TLR5,1,"Toll-like receptor 5",2
+AKR1A1,1,"Aldo-keto reductase family 1, member A1 (aldehyde reductase)",2
+CDKN2C,1,"Cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)",2
+SELE,1,"Selectin E (endothelial adhesion molecule 1)",2
+BCL10,1,"B-cell CLL/lymphoma 10",2
+CR2,1,"Complement component (3d/Epstein Barr virus) receptor 2",1
+PRDM2,1,"PR domain containing 2, with ZNF domain",1
+FH,1,"Fumarate hydratase",1
+ID3,1,"Inhibitor of DNA binding 3, dominant negative helix-loop-helix protein",1
+CSF3R,1,"Colony stimulating factor 3 receptor (granulocyte)",1
+ARHGEF11,1,"Rho guanine nucleotide exchange factor (GEF) 11",1
+BGLAP,1,"Bone gamma-carboxyglutamate (gla) protein (osteocalcin)",1
+IL24,1,"Interleukin 24",1
+CLCA2,1,"Chloride channel, calcium activated, family member 2",1
+TRIT1,1,"TRNA isopentenyltransferase 1",1
+S100A1,1,"S100 calcium binding protein A1",1
+MPL,1,"Myeloproliferative leukemia virus oncogene",1
+TP53BP2,1,"Tumor protein p53 binding protein, 2",1
+GJA4,1,"Gap junction protein, alpha 4, 37kDa (connexin 37)",1
+SHC1,1,"SHC (Src homology 2 domain containing) transforming protein 1",1
+GSTM2,1,"Glutathione S-transferase M2 (muscle)",1
+CSF1,1,"Colony stimulating factor 1 (macrophage)",1
+TGFBR3,1,"Transforming growth factor, beta receptor III (betaglycan, 300kDa)",1
+CTH,1,"Cystathionase (cystathionine gamma-lyase)",1
+C1QA,1,"Complement component 1, q subcomponent, alpha polypeptide",1
+MFSD2,1,"Major facilitator superfamily domain containing 2",1
+HLX1,1,"H2.0-like homeobox 1 (Drosophila)",1
+MAD2L2,1,"MAD2 mitotic arrest deficient-like 2 (yeast)",1
+AGT,1,"Angiotensinogen (serpin peptidase inhibitor, clade A, member 8)",1
+SFN,1,Stratifin,1
+TGFB2,1,"Transforming growth factor, beta 2",1
+F13B,1,"Coagulation factor XIII, B polypeptide",1
+CDC73,1,"cell division cycle 73, Paf1/RNA polymerase II complex component, homolog",1
+CYP17A1,10,"Cytochrome P450, family 17, subfamily A, polypeptide 1",93
+CYP2E1,10,"Cytochrome P450, family 2, subfamily E, polypeptide 1",45
+MGMT,10,"O-6-methylguanine-DNA methyltransferase",26
+RET,10,"Ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)",25
+FAS,10,"Fas (TNF receptor superfamily, member 6)",19
+CYP2C9,10,"Cytochrome P450, family 2, subfamily C, polypeptide 9",19
+CYP2C19,10,"Cytochrome P450, family 2, subfamily C, polypeptide 19",19
+PTEN,10,"phosphatase and tensin homolog (mutated in multiple advanced cancers 1)",13
+ERCC6,10,"excision repair cross-complementing rodent repair deficiency, complementation group 6",7
+AKR1C3,10,"Aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)",6
+CXCL12,10,"Chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)",5
+GSTO2,10,"Glutathione S-transferase omega 2",5
+PLAU,10,"Plasminogen activator, urokinase",5
+KLF6,10,"Kruppel-like factor 6",4
+GFRA1,10,"GDNF family receptor alpha 1",3
+GSTO1,10,"Glutathione S-transferase omega 1",3
+BTRC,10,"Beta-transducin repeat containing",2
+AKR1C1,10,"Aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)",2
+ALOX5,10,"Arachidonate 5-lipoxygenase",2
+PRF1,10,"Perforin 1 (pore forming protein)",2
+FGFR2,10,"Fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)",2
+MMP21,10,"Matrix metallopeptidase 21",2
+TRDMT1,10,"TRNA aspartic acid methyltransferase 1",1
+SUV39H2,10,"Suppressor of variegation 3-9 homolog 2 (Drosophila)",1
+SFTPA1,10,"Surfactant, pulmonary-associated protein A1",1
+TCF7L2,10,"transcription factor 7-like 2 (T-cell specific, HMG-box)",1
+FAS,10,"Fas (TNFRSF6) associated factor 1",1
+BUB3,10,"BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)",1
+CUL2,10,"Cullin 2",1
+MRC1,10,"Mannose receptor, C type 1",1
+DMBT1,10,"Deleted in malignant brain tumors 1",1
+CYP2C8,10,"Cytochrome P450, family 2, subfamily C, polypeptide 8",1
+CYP17,10,"cytochrome P450, family 17, subfamily A, polypeptide 1",1
+ABCC2,10,"ATP-binding cassette, sub-family C (CFTR/MRP), member 2",1
+GSTP1,11,"Glutathione S-transferase pi",94
+CCND1,11,"Cyclin D1",73
+MMP1,11,"Matrix metallopeptidase 1 (interstitial collagenase)",48
+ATM,11,"Ataxia telangiectasia mutated (includes complementation groups A, C and D)",44
+MMP3,11,"matrix metallopeptidase 3 (stromelysin 1, progelatinase)",31
+PGR,11,"Progesterone receptor",18
+Hras,11,"V-Ha-ras Harvey rat sarcoma viral oncogene homolog",13
+MEN1,11,"Multiple endocrine neoplasia I",8
+CAT,11,Catalase,8
+MMP12,11,"Matrix metallopeptidase 12 (macrophage elastase)",6
+MMP7,11,"Matrix metallopeptidase 7 (matrilysin, uterine)",6
+IL18,11,"Interleukin 18 (interferon-gamma-inducing factor)",6
+INS,11,Insulin,6
+SDHD,11,"Succinate dehydrogenase complex, subunit D, integral membrane protein",6
+MLL,11,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila)",5
+RAS,11,"v-Ha-ras Harvey rat sarcoma viral oncogene homolog",4
+AIP,11,"Aryl hydrocarbon receptor interacting protein",4
+IGF2,11,"Insulin-like growth factor 2 (somatomedin A)",4
+WT1,11,"Wilms tumor 1",4
+MMP8,11,"Matrix metallopeptidase 8 (neutrophil collagenase)",3
+MMP13,11,"Matrix metallopeptidase 13 (collagenase 3)",3
+PTPRJ,11,"Protein tyrosine phosphatase, receptor type, J",3
+DRD2,11,"Dopamine receptor D2",3
+DRD4,11,"Dopamine receptor D4",2
+PPP2R1B,11,"Protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform",2
+FOLH1,11,"Folate hydrolase (prostate-specific membrane antigen) 1",2
+TYR,11,"Tyrosinase (oculocutaneous albinism IA)",2
+RAG1,11,"Recombination activating gene 1",2
+F2,11,"Coagulation factor II (thrombin)",2
+MDK,11,"midkine (neurite growth-promoting factor 2)",2
+HSPA8,11,"Heat shock 70kDa protein 8",1
+LSP1,11,"Lymphocyte-specific protein 1",1
+SIPA1,11,"Signal-induced proliferation-associated gene 1",1
+H2AFX,11,"H2A histone family, member X",1
+ZBTB16,11,"Zinc finger and BTB domain containing 16",1
+TH,11,"Tyrosine hydroxylase",1
+APOC3,11,"Similar to Apolipoprotein C-III precursor (Apo-CIII)",1
+TIRAP,11,"Toll-interleukin 1 receptor (TIR) domain containing adaptor protein",1
+DDB2,11,"Damage-specific DNA binding protein 2, 48kDa",1
+HCCA2,11,"HCCA2 protein",1
+FOLR1,11,"Folate receptor 1 (adult)",1
+CHEK1,11,"CHK1 checkpoint homolog (S. pombe)",1
+RNH1,11,"ribonuclease/angiogenin inhibitor 1",1
+RRM1,11,"Transport protein, putative",1
+NUMA1,11,"Nuclear mitotic apparatus protein 1",1
+MRE11A,11,"MRE11 meiotic recombination 11 homolog A (S. cerevisiae)",1
+CALCA,11,"Calcitonin/calcitonin-related polypeptide, alpha",1
+IL10RA,11,"Interleukin 10 receptor, alpha",1
+PAK1,11,"P21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)",1
+CD5,11,"CD5 antigen (p56-62)",1
+APOA1,11,"Apolipoprotein A-I",1
+RELA,11,"V-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)",1
+PANX1,11,"Pannexin 1",1
+APOA5,11,"Apolipoprotein A-V",1
+ST14,11,"Suppression of tumorigenicity 14 (colon carcinoma, matriptase, epithin)",1
+IGHMBP2,11,"Immunoglobulin mu binding protein 2",1
+VDR,12,"Vitamin D (1,25- dihydroxyvitamin D3) receptor",39
+KRAS,12,"v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog",38
+MDM2,12,"Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)",28
+IFNG,12,"Interferon, gamma",24
+IGF1,12,"Insulin-like growth factor 1 (somatomedin C)",19
+ALDH2,12,"Aldehyde dehydrogenase 2 family (mitochondrial)",17
+CDKN1B,12,"Cyclin-dependent kinase inhibitor 1B (p27, Kip1)",11
+RAD52,12,"RAD52 homolog (S. cerevisiae)",7
+P2RX7,12,"Purinergic receptor P2X, ligand-gated ion channel, 7",7
+CDK4,12,"Cyclin-dependent kinase 4",7
+PTPN11,12,"Protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)",5
+CYP27B1,12,"Cytochrome P450, family 27, subfamily B, polypeptide 1",2
+RECQL,12,"RecQ protein-like (DNA helicase Q1-like)",2
+TXNRD1,12,"Thioredoxin reductase 1",2
+GNB3,12,"Guanine nucleotide binding protein (G protein), beta polypeptide 3",2
+SSPN,12,"Sarcospan (Kras oncogene-associated gene)",2
+TDG,12,"Thymine-DNA glycosylase",1
+APAF1,12,"Apoptotic peptidase activating factor",1
+MGST1,12,"Microsomal glutathione S-transferase 1",1
+IRAK4,12,"Interleukin-1 receptor-associated kinase 4",1
+ATP2A2,12,"ATPase, Ca++ transporting, cardiac muscle, slow twitch 2",1
+BHLHB3,12,"Basic helix-loop-helix domain containing, class B, 3",1
+TEL,12,"ets variant gene 6 (TEL oncogene)",1
+LRP1,12,"Low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)",1
+SUOX,12,"Sulfite oxidase",1
+LRMP,12,"Lymphoid-restricted membrane protein",1
+TNFRSF1A,12,"Tumor necrosis factor receptor superfamily, member 1A",1
+DDIT3,12,"DNA-damage-inducible transcript 3",1
+NOS1,12,"Nitric oxide synthase 1 (neuronal)",1
+CASC1,12,"Cancer susceptibility candidate 1",1
+KLRC4,12,"Killer cell lectin-like receptor subfamily C, member 4",1
+RASSF8,12,"Ras association (RalGDS/AF-6) domain family 8",1
+CCND2,12,"Cyclin D2",1
+CDK2,12,"Cyclin-dependent kinase 2",1
+BRCA2,13,"Breast cancer 2, early onset",58
+ERCC5,13,"Excision repair cross-complementing rodent repair deficiency, complementation group 5 (xeroderma pigmentosum, complementation group G (Cockayne syndrome))",30
+FLT3,13,"Fms-related tyrosine kinase 3",19
+RB1,13,"Retinoblastoma 1 (including osteosarcoma)",13
+LIG4,13,"Ligase IV, DNA, ATP-dependent",12
+ARL11,13,"ADP-ribosylation factor-like 11",8
+IRS2,13,"Insulin receptor substrate 2",6
+PARP4,13,"Poly (ADP-ribose) polymerase family, member 4",5
+SLC10A2,13,"Solute carrier family 10 (sodium/bile acid cotransporter family), member 2",2
+EDNRB,13,"Endothelin receptor type B",1
+CDX2,13,"Caudal type homeo box transcription factor 2",1
+POSTN,13,"Periostin, osteoblast specific factor",1
+XRCC3,14,"X-ray repair complementing defective repair in Chinese hamster cells 3",63
+APEX1,14,"APEX nuclease (multifunctional DNA repair enzyme) 1",25
+ESR2,14,"Estrogen receptor 2 (ER beta)",17
+HIF1A,14,"Hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)",8
+NFKBIA,14,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha",7
+MTHFD1,14,"Methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase",7
+RNASE1,14,"Ribonuclease, RNase A family, 1 (pancreatic)",5
+MLH3,14,"MutL homolog 3 (E. coli)",4
+RGS6,14,"Regulator of G-protein signalling 6",2
+MTA1,14,"Metastasis associated 1",2
+GSTZ1,14,"Glutathione transferase zeta 1 (maleylacetoacetate isomerase)",1
+RAGE,14,"Renal tumor antigen",1
+SEL1L,14,"Sel-1 suppressor of lin-12-like (C. elegans)",1
+SSTR1,14,"Somatostatin receptor 1",1
+GTF2A1,14,"General transcription factor IIA, 1, 19/37kDa",1
+TSHR,14,"Thyroid stimulating hormone receptor",1
+LGALS3,14,"Lectin, galactoside-binding, soluble, 3",1
+SERPINA1,14,"Serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1",1
+IGHV@,14,"immunoglobulin heavy variable group",1
+CERD4,14,"D4, zinc and double PHD fingers, family 3",1
+CMA1,14,"Chymase 1, mast cell",1
+GPX2,14,"Glutathione peroxidase 2 (gastrointestinal)",1
+IGH@,14,"immunoglobulin heavy locus",1
+CYP1A1,15,"Cytochrome P450, family 1, subfamily A, polypeptide 1",116
+CYP1A2,15,"Cytochrome P450, family 1, subfamily A, polypeptide 2",41
+CYP19A1,15,"Cytochrome P450, family 19, subfamily A, polypeptide 1",39
+RAD51,15,"RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)",25
+CYP11A1,15,"Cytochrome P450, family 11, subfamily A, polypeptide 1",14
+BLM,15,"Bloom syndrome",3
+OCA2,15,"Oculocutaneous albinism II (pink-eye dilution homolog, mouse)",2
+IGF1R,15,"Insulin-like growth factor 1 receptor",2
+BUB1B,15,"BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)",2
+AKAP13,15,"A kinase (PRKA) anchor protein 13",2
+PML,15,"Promyelocytic leukemia",1
+MTHFS,15,"5,10-methenyltetrahydrofolate synthetase (5-formyltetrahydrofolate cyclo-ligase)",1
+THBS1,15,"Thrombospondin 1",1
+TP53BP1,15,"Tumor protein p53 binding protein, 1",1
+SMAD3,15,"SMAD, mothers against DPP homolog 3 (Drosophila)",1
+SULT1A1,16,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1",65
+NQO1,16,"NAD(P)H dehydrogenase, quinone 1",57
+CDH1,16,"Cadherin 1, type 1, E-cadherin (epithelial)",36
+MC1R,16,"Melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)",25
+MMP2,16,"Matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)",23
+ERCC4,16,"Excision repair cross-complementing rodent repair deficiency, complementation group 4",20
+IL4R,16,"Interleukin 4 receptor",6
+SULT1A2,16,"sulfotransferase family, cytosolic, 1A, phenol-preferring, member 2",5
+CYBA,16,"Cytochrome b-245, alpha polypeptide",4
+CARD15,16,"Caspase recruitment domain family, member 15",3
+HSD17B2,16,"Hydroxysteroid (17-beta) dehydrogenase 2",3
+CES2,16,"Carboxylesterase 2 (intestine, liver)",2
+IGFALS,16,"Insulin-like growth factor binding protein, acid labile subunit",2
+IGHV,16,"immunoglobulin heavy variable group",2
+DNASE1,16,"Deoxyribonuclease I",2
+CBFB,16,"Core-binding factor, beta subunit",2
+ATBF1,16,"AT-binding transcription factor 1",1
+FANCA,16,"Fanconi anemia, complementation group A",1
+AXIN1,16,"Axin 1",1
+CYLD,16,"Cylindromatosis (turban tumor syndrome)",1
+ABCC1,16,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",1
+CX3CL1,16,"Chemokine (C-X3-C motif) ligand 1",1
+CTCF,16,"CCCTC-binding factor (zinc finger protein)",1
+TCS2,16,"Tuberous sclerosis 2",1
+CETP,16,"Cholesteryl ester transfer protein, plasma",1
+CIITA,16,"class II, major histocompatibility complex, transactivator",1
+SSTR5,16,"Somatostatin receptor 5",1
+CES1,16,"Carboxylesterase 1 (monocyte/macrophage serine esterase 1)",1
+MYH11,16,"Myosin, heavy polypeptide 11, smooth muscle",1
+HP,16,Haptoglobin,1
+MPG,16,"N-methylpurine-DNA glycosylase",1
+CDT1,16,"Chromatin licensing and DNA replication factor 1",1
+TP53,17,"Tumor protein p53 (Li-Fraumeni syndrome)",181
+BRCA1,17,"Breast cancer 1, early onset",80
+MPO,17,Myeloperoxidase,52
+ERBB2,17,"V-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)",36
+ELAC2,17,"ElaC homolog 2 (E. coli)",25
+SHMT1,17,"Serine hydroxymethyltransferase 1 (soluble)",14
+NOS2A,17,"Nitric oxide synthase 2A (inducible, hepatocytes)",14
+HSD17B1,17,"Hydroxysteroid (17-beta) dehydrogenase 1",12
+ITGB3,17,"Integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)",10
+ACE,17,"Angiotensin I converting enzyme (peptidyl-dipeptidase A) 1",10
+NF1,17,"Neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)",10
+MYH1,17,"Myosin, heavy polypeptide 1, skeletal muscle, adult",8
+SHBG,17,"Sex hormone-binding globulin",8
+PHB,17,Prohibitin,6
+TIMP2,17,"TIMP metallopeptidase inhibitor 2",6
+BRIP1,17,"BRCA1 interacting protein C-terminal helicase 1",5
+LIG3,17,"Ligase III, DNA, ATP-dependent",5
+GH1,17,"Growth hormone 1",5
+ALOX12,17,"Arachidonate 12-lipoxygenase",4
+NME1,17,"Non-metastatic cells 1, protein (NM23A) expressed in",3
+HER2,17,"v-erb-b2 erythroblastic leukemia viral oncogene homolog 2",3
+SSTR2,17,"Somatostatin receptor 2",3
+CCL5,17,"Chemokine (C-C motif) ligand 5",2
+ACACA,17,"Acetyl-Coenzyme A carboxylase alpha",2
+PLD2,17,"Phospholipase D2",2
+ERBB2,17,"-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)",2
+RAD51C,17,"RAD51 homolog C (S. cerevisiae)",2
+ATP1B2,17,"ATPase, Na+/K+ transporting, beta 2 polypeptide",1
+SLC6A4,17,"Solute carrier family 6 (neurotransmitter transporter, serotonin), member 4",1
+AXIN2,17,"Axin 2 (conductin, axil)",1
+RPA1,17,"Replication protein A1, 70kDa",1
+AKAP10,17,"A kinase (PRKA) anchor protein 10",1
+GP1BA,17,"Glycoprotein Ib (platelet), alpha polypeptide",1
+BIRC5,17,"Baculoviral IAP repeat-containing 5 (survivin)",1
+IKZF3,17,"IKAROS family zinc finger 3 (Aiolos)",1
+C17orf37,17,"Chromosome 17 open reading frame 37",1
+POLG2,17,"Polymerase (DNA directed), gamma 2, accessory subunit",1
+THRA,17,"Thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)",1
+PNMT,17,"Phenylethanolamine N-methyltransferase",1
+NEUROD2,17,"Neurogenic differentiation 2",1
+GRB7,17,"Growth factor receptor-bound protein 7",1
+LGALS3BP,17,"Lectin, galactoside-binding, soluble, 3 binding protein",1
+TCF2,17,"Transcription factor 2, hepatic; LF-B3; variant hepatic nuclear factor",1
+STARD3,17,"START domain containing 3",1
+RAD51L3,17,"RAD51-like 3 (S. cerevisiae)",1
+PERLD1,17,"Per1-like domain containing 1",1
+TCAP,17,"Titin-cap (telethonin)",1
+PECAM1,17,"Platelet/endothelial cell adhesion molecule (CD31 antigen)",1
+PPARBP,17,"PPAR binding protein",1
+TOP2A,17,"Topoisomerase (DNA) II alpha 170kDa",1
+ITGA3,17,"Integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)",1
+CCL2,17,"Chemokine (C-C motif) ligand 2",1
+RAI1,17,"Smith-Magenis syndrome chromosome region, candidate 3",1
+COL1A1,17,"Collagen, type I, alpha 1",1
+PPP1R1B,17,"Protein phosphatase 1, regulatory (inhibitor) subunit 1B (dopamine and cAMP regulated phosphoprotein, DARPP-32)",1
+CAMKK1,17,"Calcium/calmodulin-dependent protein kinase kinase 1, alpha",1
+TYMS,18,"Thymidylate synthetase",58
+BCL2,18,"B-cell CLL/lymphoma 2",11
+DCC,18,"Deleted in colorectal carcinoma",2
+POLI,18,"Polymerase (DNA directed) iota",2
+MAPRE2,18,"Microtubule-associated protein, RP/EB family, member 2",1
+C18orf8,18,"Chromosome 18 open reading frame 8",1
+SERPINB10,18,"Serpin peptidase inhibitor, clade B (ovalbumin), member 10",1
+MBD1,18,"Methyl-CpG binding domain protein 1",1
+MBD2,18,"Methyl-CpG binding domain protein 2",1
+SMAD4,18,"SMAD, mothers against DPP homolog 4 (Drosophila)",1
+SMAD2,18,"SMAD, mothers against DPP homolog 2 (Drosophila)",1
+mic1,18,"chromosome 18 open reading frame 8",1
+SMAD7,18,"SMAD, mothers against DPP homolog 7 (Drosophila)",1
+XRCC1,19,"X-ray repair complementing defective repair in Chinese hamster cells 1",104
+ERCC2,19,"Excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)",83
+ERCC1,19,"Excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)",42
+TGFB1,19,"Transforming growth factor, beta 1 (Camurati-Engelmann disease)",28
+CYP2A6,19,"Cytochrome P450, family 2, subfamily A, polypeptide 6",19
+KLK3,19,"Kallikrein 3, (prostate specific antigen)",16
+KIR3DL1,19,"Killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1",6
+LIG1,19,"Ligase I, DNA, ATP-dependent",6
+APOE,19,"Apolipoprotein E",5
+BAX,19,"BCL2-associated X protein",5
+KIR2DL3,19,"Killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 3",5
+KIR3DL2,19,"Killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2",5
+KLK2,19,"Kallikrein 2, prostatic",5
+CYP2A13,19,"Cytochrome P450, family 2, subfamily A, polypeptide 13",5
+CEBPA,19,"CCAAT/enhancer binding protein (C/EBP), alpha",5
+KIR2DS4,19,"Killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 4",4
+CD3EAP,19,"CD3E antigen, epsilon polypeptide associated protein",4
+KIR2DL1,19,"Killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 1",4
+KIR3DL3,19,"killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 3",3
+KIR2DL4,19,"Killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 4",3
+ICAM1,19,"Intercellular adhesion molecule 1 (CD54), human rhinovirus receptor",3
+KIR2DL2,19,"Killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 2",3
+LHB,19,"Luteinizing hormone beta polypeptide",3
+ZNF350,19,"Zinc finger protein 350",3
+PPP1R13L,19,"Protein phosphatase 1, regulatory (inhibitor) subunit 13 like",3
+KIR2DS5,19,"Killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 3",2
+KIR2DS2,19,"Killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 2",2
+ICAM5,19,"Intercellular adhesion molecule 5, telencephalin",2
+KLK3,19,"kallikrein 3",2
+STK11,19,"Serine/threonine kinase 11 (Peutz-Jeghers syndrome)",2
+CYP2F1,19,"Cytochrome P450, family 2, subfamily F, polypeptide 1",2
+GPX4,19,"Glutathione peroxidase 4 (phospholipid hydroperoxidase)",2
+FUT3,19,"Fucosyltransferase 3 (galactoside 3(4)-L-fucosyltransferase, Lewis blood group included)",2
+ELA2,19,"Elastase 2, neutrophil",2
+INSR,19,"Insulin receptor",2
+POLD1,19,"Polymerase (DNA directed), delta 1, catalytic subunit 125kDa",2
+KLK10,19,"Kallikrein 10",2
+HPN,19,"Hepsin (transmembrane protease, serine 1)",2
+PDCD5,19,"Programmed cell death 5",2
+CCNE1,19,"Cyclin E1",1
+CASP14,19,"Caspase 14, apoptosis-related cysteine peptidase",1
+UQCRFS1,19,"Ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1",1
+CDKN2D,19,"Cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)",1
+INSL3,19,"Insulin-like 3 (Leydig cell)",1
+NER,19,"nuclear receptor subfamily 1, group H, member 2",1
+HAS1,19,"Hyaluronan synthase 1",1
+GIPC1,19,"GIPC PDZ domain containing family, member 1",1
+PLAB,19,"Growth differentiation factor 15",1
+KLK11,19,"Kallikrein 11",1
+EMP3,19,"Epithelial membrane protein 3",1
+KIR2DP1,19,"killer cell immunoglobulin-like receptor, two domains, pseudogene 1",1
+TGFB,19,"transforming growth factor, beta 1",1
+IRF3,19,"Interferon regulatory factor 3",1
+KIR2DL5A,19,"killer cell immunoglobulin-like receptor, two domains, long cytoplasmic tail, 5",1
+KLK12,19,"Kallikrein 12",1
+KIR2DS1,19,"Killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 1",1
+KIR2DS3,19,"killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 3",1
+IL12RB1,19,"interleukin 12 receptor, beta 1",1
+CYP2B6,19,"Cytochrome P450, family 2, subfamily B, polypeptide 6",1
+GLTSCR1,19,"Glioma tumor suppressor candidate region gene 1",1
+SULT2A1,19,"Sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone (DHEA)-preferring, member 1",1
+CYP1B1,2,"Cytochrome P450, family 1, subfamily B, polypeptide 1",63
+MSH2,2,"MutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)",51
+SRD5A2,2,"Steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)",49
+IL1B,2,"Interleukin 1, beta",42
+MSH6,2,"MutS homolog 6 (E. coli)",27
+IL1RN,2,"Interleukin 1 receptor antagonist",25
+UGT1A7,2,"UDP glycosyltransferase 1 family, polypeptide A7",18
+UGT1A1,2,"UDP glycosyltransferase 1 family, polypeptide A1",15
+CTLA4,2,"Cytotoxic T-lymphocyte-associated protein 4",11
+IL1A,2,"Interleukin 1, alpha",11
+BARD1,2,"BRCA1 associated RING domain 1",9
+IRS1,2,"Insulin receptor substrate 1",7
+XRCC5,2,"X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)",7
+CASP8,2,"Caspase 8, apoptosis-related cysteine peptidase",7
+UGT1A6,2,"UDP glucuronosyltransferase 1 family, polypeptide A9",7
+UGT1A9,2,"UDP glycosyltransferase 1 family, polypeptide A9",6
+IL8RA,2,"Interleukin 8 receptor, alpha",4
+IL8RB,2,"Interleukin 8 receptor, beta",3
+CASP10,2,"Caspase 10, apoptosis-related cysteine peptidase",3
+UGT1A8,2,"UDP glycosyltransferase 1 family, polypeptide A8",3
+FN1,2,"Fibronectin 1",2
+ERCC3,2,"Excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)",2
+TGFA,2,"Transforming growth factor, alpha",2
+NPAS2,2,"Neuronal PAS domain protein 2",2
+IL1R1,2,"Interleukin 1 receptor, type I",2
+UGT1A1,2,"UDP glucuronosyltransferase 1 family, polypeptide A1",2
+UGT1A10,2,"UDP glycosyltransferase 1 family, polypeptide A10",2
+SFTPB,2,"Surfactant, pulmonary-associated protein B",2
+SLC11A1,2,"Solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1",2
+APOB,2,"Apolipoprotein B (including Ag(x) antigen)",2
+PMS1,2,"PMS1 postmeiotic segregation increased 1 (S. cerevisiae)",2
+REV1L,2,"REV1-like (yeast)",1
+UGT1A4,2,"UDP glycosyltransferase 1 family, polypeptide A4",1
+FSHR,2,"Follicle stimulating hormone receptor",1
+FRZB,2,"Frizzled-related protein",1
+MTA3,2,"Metastasis associated 1 family, member 3",1
+ERBB4,2,"V-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)",1
+DOK1,2,"Docking protein 1, 62kDa (downstream of tyrosine kinase 1)",1
+UGT1A3,2,"UDP glycosyltransferase 1 family, polypeptide A3",1
+PIG3,2,"tumor protein p53 inducible protein 3",1
+ODC1,2,"Ornithine decarboxylase 1",1
+ICOS,2,"Inducible T-cell co-stimulator",1
+UGT1A10,2,"UDP glucuronosyltransferase 1 family, polypeptide A10",1
+UGT1A@,2,"UDP glycosyltransferase 1 family, polypeptide A cluster",1
+PDE11A,2,"Phosphodiesterase 11A",1
+SLC40A1,2,"Solute carrier family 40 (iron-regulated transporter), member 1",1
+HSPE1,2,"Heat shock 10kDa protein 1 (chaperonin 10)",1
+ACVR2A,2,"activin A receptor, type IIA",1
+BUB1,2,"BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)",1
+CAPN10,2,"Calpain 10",1
+CD28,2,"CD28 antigen (Tp44)",1
+TBR1,2,"T-box, brain, 1",1
+LCT,2,Lactase,1
+LTBP1,2,"Latent transforming growth factor beta binding protein 1",1
+LHCGR,2,"Luteinizing hormone/choriogonadotropin receptor",1
+CFLAR,2,"CASP8 and FADD-like apoptosis regulator",1
+HOXD4,2,"Homeo box D4",1
+MMP9,20,"Matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)",23
+AURKA,20,"aurora kinase A",17
+DNMT3B,20,"DNA (cytosine-5-)-methyltransferase 3 beta",12
+NCOA3,20,"Nuclear receptor coactivator 3",8
+GNAS,20,"GNAS complex locus",6
+PCNA,20,"Proliferating cell nuclear antigen",2
+GHRH,20,"Growth hormone releasing hormone",2
+MYLK2,20,"Myosin light chain kinase 2, skeletal muscle",1
+PRNP,20,"Prion protein (p27-30) (Creutzfeld-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)",1
+ADAM33,20,"ADAM metallopeptidase domain 33",1
+BCAS1,20,"Breast carcinoma amplified sequence 1",1
+CYP24A1,20,"Cytochrome P450, family 24, subfamily A, polypeptide 1",1
+ASIP,20,"Agouti signaling protein, nonagouti homolog (mouse)",1
+STK6,20,"Serine/threonine kinase 6",1
+SSTR4,20,"Somatostatin receptor 4",1
+SNAI1,20,"Snail homolog 1 (Drosophila)",1
+E2F1,20,"E2F transcription factor 1",1
+PTPRT,20,"Protein tyrosine phosphatase, receptor type, T",1
+SLC19A1,21,"SLC19A1 solute carrier family 19 (folate transporter), member 1",10
+CBS,21,Cystathionine-beta-synthase,9
+COL18A1,21,"Collagen, type XVIII, alpha 1",6
+BACH1,21,"BTB and CNC homology 1, basic leucine zipper transcription factor 1",3
+RUNX1,21,"Runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene)",2
+SOD1,21,"Superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))",2
+IFNGR2,21,"Interferon gamma receptor 2 (interferon gamma transducer 1)",2
+TMPRSS2,21,"Transmembrane protease, serine 2",1
+TFF2,21,"Trefoil factor 2 (spasmolytic protein 1)",1
+STCH,21,"Stress 70 protein chaperone, microsome-associated, 60kDa",1
+GSTT1,22,"Glutathione S-transferase theta 1",125
+CHEK2,22,"CHK2 checkpoint homolog (S. pombe)",48
+COMT,22,Catechol-O-methyltransferase,48
+CYP2D6,22,"cytochrome P450, family 2, subfamily D, polypeptide 6",25
+HMOX1,22,"Heme oxygenase (decycling) 1",5
+NF2,22,"Neurofibromin 2 (bilateral acoustic neuroma)",3
+XRCC6,22,"X-ray repair complementing defective repair in Chinese hamster cells 6",3
+GSTT2,22,"Glutathione S-transferase theta 2",2
+BCR,22,"Breakpoint cluster region",2
+TXN2,22,"Thioredoxin 2",2
+TXNRD2,22,"Thioredoxin reductase 2",2
+TCN2,22,"Transcobalamin II; macrocytic anemia",2
+CYP2D6,22,"Cytochrome P450, family 2, subfamily D, polypeptide 7 pseudogene 1",2
+TMPRSS6,22,"Transmembrane protease, serine 6",1
+RAD53,22,"CHK2 checkpoint homolog",1
+IL2RB,22,"Interleukin 2 receptor, beta",1
+TIMP3,22,"TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)",1
+EP300,22,"E1A binding protein p300",1
+SSTR3,22,"Somatostatin receptor 3",1
+SMARCB1,22,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1",1
+CHEK2,22,"Carboxylesterase 1 (monocyte/macrophage serine esterase 1)",1
+MLH1,3,"MutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)",56
+OGG1,3,"8-oxoguanine DNA glycosylase",43
+XPC,3,"Xeroderma pigmentosum, complementation group C",43
+GPX1,3,"glutathione peroxidase 1",22
+PPARG,3,"Peroxisome proliferative activated receptor, gamma",16
+VHL,3,"Von Hippel-Lindau tumor suppressor",12
+PIK3CA,3,"Phosphoinositide-3-kinase, catalytic, alpha polypeptide",11
+TGFBR2,3,"Transforming growth factor, beta receptor II (70/80kDa)",10
+FHIT,3,"Nasopharyngeal carcinoma, down-regulated 1",8
+IL12A,3,"Interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)",7
+CTNNB1,3,"Catenin (cadherin-associated protein), beta 1, 88kDa",6
+CCR2,3,"CCR2 chemokine (C-C motif) receptor 2",5
+BCL6,3,"B-cell CLL/lymphoma 6 (zinc finger protein 51)",4
+ARL6IP5,3,"ADP-ribosylation-like factor 6 interacting protein 5",4
+CCR5,3,"Chemokine (C-C motif) receptor 5",4
+FHIT,3,"fragile histidine triad gene",4
+TFRC,3,"Transferrin receptor (p90, CD71)",4
+RASSF1,3,"Ras association (RalGDS/AF-6) domain family 1",3
+GHRL,3,"Ghrelin precursor",2
+ATR,3,"Ataxia telangiectasia and Rad3 related",2
+ALDH1L1,3,"Aldehyde dehydrogenase 1 family, member L1",2
+GSK3B,3,"Glycogen synthase kinase 3 beta",2
+CASR,3,"Calcium-sensing receptor (hypocalciuric hypercalcemia 1, severe neonatal hyperparathyroidism)",2
+SST,3,Somatostatin,2
+MBD4,3,"Methyl-CpG binding domain protein 4",2
+DRD3,3,"Dopamine receptor D3",1
+CX3CR1,3,"Chemokine (C-X3-C motif) receptor 1",1
+PTHR1,3,"parathyroid hormone receptor 1",1
+POU1F1,3,"POU domain, class 1, transcription factor 1 (Pit1, growth hormone factor 1)",1
+ADIPOQ,3,"adiponectin, C1Q and collagen domain containing",1
+PARP3,3,"Poly (ADP-ribose) polymerase family, member 3",1
+SEMA3B,3,"Sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B",1
+TLR9,3,"Toll-like receptor 9",1
+AGTR1,3,"Angiotensin II receptor, type 1",1
+UMPS,3,"Uridine monophosphate synthetase (orotate phosphoribosyl transferase and orotidine-5'-decarboxylase)",1
+NAT6,3,"N-acetyltransferase 6",1
+TP73L,3,"Tumor protein p73-like",1
+RASSF1A,3,"Ras association (RalGDS/AF-6) domain family 1",1
+TOPBP1,3,"Topoisomerase (DNA) II binding protein 1",1
+FANCD2,3,"Fanconi anemia, complementation group D2",1
+PIK3CB,3,"Phosphoinositide-3-kinase, catalytic, beta polypeptide",1
+TGFBR2,3,,1
+GHSR,3,"Growth hormone secretagogue receptor",1
+IL8,4,"Interleukin 8",29
+ADH1C,4,"Alcohol dehydrogenase 1C (class I), gamma polypeptide",21
+EGF,4,"Epidermal growth factor (beta-urogastrone)",16
+ADH1B,4,"Alcohol dehydrogenase IB (class I), beta polypeptide",11
+UGT2B15,4,"UDP glucuronosyltransferase 2 family, polypeptide B15",10
+IL2,4,"Interleukin 2",9
+UGT2B7,4,"UDP glucuronosyltransferase 2 family, polypeptide B7",8
+NFKB1,4,"Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)",6
+ABCG2,4,"ATP-binding cassette, sub-family G (WHITE), member 2",5
+KIT,4,"V-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog",5
+TS13,4,"Temperature sensitivity complementation, ts13",4
+FGFR3,4,"Fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)",3
+TLR1,4,"Toll-like receptor 1",3
+TLR10,4,"Toll-like receptor 10",3
+UGT2B17,4,"UDP glucuronosyltransferase 2 family, polypeptide B17",3
+PPARGC1A,4,"Peroxisome proliferative activated receptor, gamma, coactivator 1, alpha",3
+TLR2,4,"Toll-like receptor 2",2
+TLR6,4,"Toll-like receptor 6",2
+MAD2L1,4,"MAD2 mitotic arrest deficient-like 1 (yeast)",2
+UGT2B4,4,"UDP glucuronosyltransferase 2 family, polypeptide B4",2
+PDGFRA,4,"Platelet-derived growth factor receptor, alpha polypeptide",2
+ADH1A,4,"Alcohol dehydrogenase 1A (class I), alpha polypeptide",2
+SULT1E1,4,"Sulfotransferase family 1E, estrogen-preferring, member 1",2
+AFP,4,Alpha-fetoprotein,1
+POLR2B,4,"Polymerase (RNA) II (DNA directed) polypeptide B, 140kDa",1
+CXCL5,4,"Chemokine (C-X-C motif) ligand 5",1
+PHOX2B,4,"Paired-like homeobox 2b",1
+CASP3,4,"Caspase 3, apoptosis-related cysteine peptidase",1
+F11,4,"Coagulation factor XI (plasma thromboplastin antecedent)",1
+KDR,4,"Kinase insert domain receptor (a type III receptor tyrosine kinase)",1
+MMRN1,4,"Multimerin 1",1
+PALLD,4,"Palladin, cytoskeletal associated protein",1
+IGFBP7,4,"Insulin-like growth factor binding protein 7",1
+SPP1,4,"Secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)",1
+SLIT2,4,"Slit homolog 2 (Drosophila)",1
+HPSE,4,Heparanase,1
+DCK,4,"Deoxycytidine kinase",1
+GC,4,"Group-specific component (vitamin D binding protein)",1
+CENPE,4,"Centromere protein E, 312kDa",1
+APC,5,"Adenomatosis polyposis coli",49
+MTRR,5,"5-methyltetrahydrofolate-homocysteine methyltransferase reductase",18
+FGFR4,5,"Fibroblast growth factor receptor 4",13
+IL4,5,"Interleukin 4",11
+MSH3,5,"MutS homolog 3 (E. coli)",7
+XRCC4,5,"X-ray repair complementing defective repair in Chinese hamster cells 4",6
+SPINK1,5,"Serine peptidase inhibitor, Kazal type 1",5
+NR3C1,5,"Nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)",5
+CD14,5,"CD14 antigen",5
+NPM1,5,"Nucleophosmin (nucleolar phosphoprotein B23, numatrin)",5
+GHR,5,"Growth hormone receptor",3
+ITGA2,5,"Integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)",3
+IL13,5,"Interleukin 13",3
+CCNH,5,"Cyclin H",3
+IRF1,5,"Interferon regulatory factor 1",2
+PRLR,5,"Prolactin receptor",2
+RAD50,5,"RAD50 homolog (S. cerevisiae)",2
+DHFR,5,"Dihydrofolate reductase",2
+ADRB2,5,"Adrenergic, beta-2-, receptor, surface",2
+POLK,5,"Polymerase (DNA directed) kappa",1
+MAP3K1,5,"Mitogen-activated protein kinase kinase kinase 1",1
+PPARGC1B,5,"Peroxisome proliferative activated receptor, gamma, coactivator 1, beta",1
+ECG2,5,"Esophagus cancer-related gene-2",1
+SRD5A1,5,"Steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)",1
+SLC6A3,5,"Solute carrier family 6 (neurotransmitter transporter, dopamine), member 3",1
+CDK7,5,"Cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)",1
+GFRA3,5,"GDNF family receptor alpha 3",1
+IL5,5,"Interleukin 5 (colony-stimulating factor, eosinophil)",1
+BHMT,5,"Betaine-homocysteine methyltransferase",1
+TERT,5,"Telomerase reverse transcriptase",1
+IL12B,5,"Interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)",1
+Cdx1,5,"Caudal type homeo box transcription factor 1",1
+AMACR,5,"Alpha-methylacyl-CoA racemase",1
+CSF2,5,"Colony stimulating factor 2 (granulocyte-macrophage)",1
+SLC45A2,5,"solute carrier family 45, member 2",1
+PTTG1,5,"Pituitary tumor-transforming 1",1
+CXCL14,5,"Chemokine (C-X-C motif) ligand 14",1
+AS,5,"Ankylosis, progressive homolog (mouse)",1
+HLA-DQB1,6,"Major histocompatibility complex, class II, DQ beta 1",61
+HLA-DRB1,6,"major histocompatibility complex, class II, DR beta 1",57
+SOD2,6,"Superoxide dismutase 2, mitochondrial",55
+TNF,6,"Tumor necrosis factor (TNF superfamily, member 2)",49
+ESR1,6,"Estrogen receptor 1",31
+CDKN1A,6,"Cyclin-dependent kinase inhibitor 1A (p21, Cip1)",25
+HLA-DQA1,6,"Major histocompatibility complex, class II, DQ alpha 1",25
+HLA-A,6,"Major histocompatibility complex, class I, A",25
+HLA-B,6,"major histocompatibility complex, class I, B",21
+VEGFA,6,"Vascular endothelial growth factor A",16
+HLA-DPB1,6,"Major histocompatibility complex, class II, DP beta 1",15
+VEGFA,6,"Vascular endothelial growth factor",15
+LTA,6,"lymphotoxin alpha (TNF superfamily, member 1)",11
+TPMT,6,"Thiopurine S-methyltransferase",11
+HLA-C,6,"Major histocompatibility complex, class I, C",10
+GSTA1,6,"Glutathione S-transferase A1",10
+HFE,6,Hemochromatosis,9
+MICA,6,"MHC class I polypeptide-related sequence A",7
+HLA-B,6,"Major histocompatibility complex, class II, DR beta 3",5
+PGC,6,"Progastricsin (pepsinogen C)",4
+HLA,6,,4
+GSTA2,6,"Glutathione S-transferase A2",4
+HLA-DRB4,6,"Major histocompatibility complex, class II, DR beta 4",3
+PRL,6,Prolactin,3
+GSTA4,6,"Glutathione S-transferase A4",2
+HLA-DQB1,6,,2
+HLA-A,6,,2
+PPARD,6,"Peroxisome proliferative activated receptor, delta",2
+FAM46A,6,"Family with sequence similarity 46, member A",2
+HLA-E,6,"Major histocompatibility complex, class I, E",2
+TAP1,6,"Transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)",2
+MICB,6,"MHC class I polypeptide-related sequence B",2
+HSPA1B,6,"heat shock 70kDa protein 1B",2
+EDN1,6,"Endothelin 1",2
+TTK,6,"TTK protein kinase",2
+HLA,6,"Major histocompatibility complex, class II, DR beta 3",1
+ME1,6,"Malic enzyme 1, NADP(+)-dependent, cytosolic",1
+NQO2,6,"NAD(P)H dehydrogenase, quinone 2",1
+HSPA1L,6,"Heat shock 70kDa protein 1-like",1
+EHMT2,6,"Euchromatic histone-lysine N-methyltransferase 2",1
+HLA-DRB5,6,"Major histocompatibility complex, class II, DR beta 3",1
+BAK1,6,"BCL2-antagonist/killer 1",1
+TAP2,6,"Transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)",1
+GCNT2,6,"Glucosaminyl (N-acetyl) transferase 2, I-branching enzyme",1
+TUBB,6,"Tubulin, beta polypeptide",1
+HLA-DRB4,6,"Major histocompatibility complex, class II, DR beta 3",1
+HLA-DPA1,6,"Major histocompatibility complex, class II, DP alpha 1",1
+VPS52,6,"Vacuolar protein sorting 52 (yeast)",1
+F13A1,6,"Coagulation factor XIII, A1 polypeptide",1
+CCND3,6,"Cyclin D3",1
+GMNN,6,"Geminin, DNA replication inhibitor",1
+GNMT,6,"Glycine N-methyltransferase",1
+HLA-G,6,"HLA-G histocompatibility antigen, class I, G",1
+HLA,6,"HLA-16 pseudogene",1
+IGF2R,6,"Insulin-like growth factor 2 receptor",1
+TNFA,6,"tumor necrosis factor (TNF superfamily, member 2)",1
+GRM1,6,"Glutamate receptor, metabotropic 1",1
+AGER,6,"Advanced glycosylation end product-specific receptor",1
+OPRM1,6,"Opioid receptor, mu 1",1
+EGFR,7,"Epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)",63
+BRAF,7,"V-raf murine sarcoma viral oncogene homolog B1",41
+ABCB1,7,"ATP-binding cassette, sub-family B (MDR/TAP), member 1",36
+CYP3A4,7,"Cytochrome P450, family 3, subfamily A, polypeptide 4",33
+IL6,7,"Interleukin 6 (interferon, beta 2)",33
+CYP3A5,7,"Cytochrome P450, family 3, subfamily A, polypeptide 5 pseudogene 2",27
+IGFBP3,7,"Insulin-like growth factor binding protein 3",23
+XRCC2,7,"X-ray repair complementing defective repair in Chinese hamster cells 2",22
+NOS3,7,"Nitric oxide synthase 3 (endothelial cell)",19
+SERPINE1,7,"Serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1",13
+PON1,7,"Paraoxonase 1",11
+AHR,7,"Aryl hydrocarbon receptor",11
+NUDT1,7,"Nudix (nucleoside diphosphate linked moiety X)-type motif 1",8
+CYP3A4,7,"cytochrome P450, family 3, subfamily A",8
+PMS2,7,"PMS2 postmeiotic segregation increased 2 (S. cerevisiae)",6
+LEP,7,"Leptin (obesity homolog, mouse)",6
+CYP3A5,7,"cytochrome P450, family 3, subfamily A",4
+IGFBP1,7,"Insulin-like growth factor binding protein 1",4
+CFTR,7,"Cystic fibrosis transmembrane conductance regulator, ATP-binding cassette (sub-family C, member 7)",3
+TRB@,7,"T cell receptor beta locus",3
+CYP3A43,7,"Cytochrome P450, family 3, subfamily A, polypeptide 43",3
+PDS,7,"progesterone receptor",2
+GHRHR,7,"Growth hormone releasing hormone receptor",2
+CAV1,7,"Caveolin 1, caveolae protein, 22kDa",2
+CYP3A,7,"cytochrome P450, family 3, subfamily A",2
+CD36,7,"CD36 antigen (collagen type I receptor, thrombospondin receptor)",2
+DMTF1,7,"Cyclin D binding myb-like transcription factor 1",1
+TES,7,"Testis derived transcript (3 LIM domains)",1
+TFPI2,7,"Tissue factor pathway inhibitor 2",1
+CAV2,7,"Caveolin 2",1
+CRHR2,7,"Corticotropin releasing hormone receptor 2",1
+EZH2,7,"Enhancer of zeste homolog 2 (Drosophila)",1
+POU6F2,7,"POU domain, class 6, transcription factor 2",1
+CALCR,7,"Calcitonin receptor",1
+HGF,7,"Hepatocyte growth factor (hepapoietin A; scatter factor)",1
+PPP1R3A,7,"Protein phosphatase 1, regulatory (inhibitor) subunit 3A (glycogen and sarcoplasmic reticulum binding subunit, skeletal muscle)",1
+RPA3,7,"Replication protein A3, 14kDa",1
+AKAP9,7,"A kinase (PRKA) anchor protein (yotiao) 9",1
+ARPC1A,7,"Actin related protein 2/3 complex, subunit 1A, 41kDa",1
+APS,7,"Adaptor protein with pleckstrin homology and src homology 2 domains",1
+PIP,7,"Prolactin-induced protein",1
+PODXL,7,Podocalyxin-like,1
+TFR2,7,"Transferrin receptor 2",1
+DSS1,7,"split hand/foot malformation (ectrodactyly) type 1",1
+PON2,7,"Paraoxonase 2",1
+NPY,7,"Neuropeptide Y",1
+CDK6,7,"Cyclin-dependent kinase 6",1
+POR,7,"P450 (cytochrome) oxidoreductase",1
+PAI1,7,"serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1",1
+NAT2,8,"N-acetyltransferase 2 (arylamine N-acetyltransferase)",91
+NAT1,8,"N-acetyltransferase 1 (arylamine N-acetyltransferase)",45
+NBN,8,nibrin,29
+MSR1,8,"Macrophage scavenger receptor 1",15
+MYC,8,"V-myc myelocytomatosis viral oncogene homolog (avian)",9
+POLB,8,"Polymerase (DNA directed), beta",5
+TNFRSF10A,8,"Tumor necrosis factor receptor superfamily, member 10a",5
+PRKDC,8,"Protein kinase, DNA-activated, catalytic polypeptide",5
+ADRB3,8,"Adrenergic, beta-3-, receptor",4
+WRN,8,"Werner syndrome",3
+LPL,8,"Lipoprotein lipase",3
+NBS1,8,Nibrin,3
+TG,8,Thyroglobulin,2
+DLC1,8,"Deleted in liver cancer 1",2
+LAPTM4B,8,"Lysosomal associated protein transmembrane 4 beta",2
+CYP7A1,8,"Cytochrome P450, family 7, subfamily A, polypeptide 1",2
+GSR,8,"Glutathione reductase",2
+CYP11B2,8,"Cytochrome P450, family 11, subfamily B, polypeptide 2",2
+RRM2B,8,"Ribonucleotide reductase M2 B (TP53 inducible)",1
+TOX,8,"Thymus high mobility group box protein TOX",1
+MTUS1,8,"Mitochondrial tumor suppressor 1",1
+TNFRSF10D,8,"Tumor necrosis factor receptor superfamily, member 10d, decoy with truncated death domain",1
+NKX3-1,8,"NK3 transcription factor related, locus 1 (Drosophila)",1
+TNFRSF10C,8,"Tumor necrosis factor receptor superfamily, member 10c, decoy without an intracellular domain",1
+EPHX2,8,"Epoxide hydrolase 2, cytoplasmic",1
+GNRH1,8,"Gonadotropin-releasing hormone 1 (luteinizing-releasing hormone)",1
+CTSB,8,"Cathepsin B",1
+LZTS1,8,"Leucine zipper, putative tumor suppressor 1",1
+ADRA1A,8,"Adrenergic, alpha-1A-, receptor",1
+PLAT,8,"Plasminogen activator, tissue",1
+PTK2,8,"PTK2 protein tyrosine kinase 2",1
+GFRA2,8,"GDNF family receptor alpha 2",1
+EBAG9,8,"Estrogen receptor binding site associated, antigen, 9",1
+HSF1,8,"Heat shock transcription factor 1",1
+CDKN2A,9,"cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)",51
+XPA,9,"Xeroderma pigmentosum, complementation group A",18
+TGFBR1,9,"Transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)",16
+TLR4,9,"Toll-like receptor 4",13
+PTCH,9,"Patched homolog (Drosophila)",8
+CDKN2B,9,"Cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)",7
+RAD23B,9,"RAD23 homolog B (S. cerevisiae)",4
+GALT,9,"Galactose-1-phosphate uridylyltransferase",4
+PTGS1,9,"Prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)",3
+ALAD,9,"Aminolevulinate, delta-, dehydratase",3
+JAK2,9,"Janus kinase 2 (a protein tyrosine kinase)",3
+HSD17B3,9,"Hydroxysteroid (17-beta) dehydrogenase 3",2
+ABL1,9,"V-abl Abelson murine leukemia viral oncogene homolog 1",2
+TXN,9,Thioredoxin,2
+FANCC,9,"Fanconi anemia, complementation group C",2
+CDKN2A,9,"cyclin-dependent kinase inhibitor 2A",2
+GAS1,9,"Growth arrest-specific 1",1
+RECK,9,"Reversion-inducing-cysteine-rich protein with kazal motifs",1
+DAPK1,9,"Death-associated protein kinase 1",1
+PTCH1,9,"Patched homolog 1 (Drosophila)",1
+TGFBRI,9,"Transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)",1
+EHMT1,9,"Euchromatic histone-lysine N-methyltransferase 1",1
+FANCG,9,"Fanconi anemia, complementation group G",1
+IFNA17,9,"Interferon, alpha 17",1
+FPGS,9,"Folylpolyglutamate synthase",1
+NOTCH1,9,"Notch homolog 1, translocation-associated (Drosophila)",1
+ABO,9,"ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase)",1
+MT-ND3,M,,1
+MT-RNR1,M,,1
+MT-TL1,M,,1
+MT-CO1,M,,1
+MT-CO2,M,,1
+AR,X,"Androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)",50
+TCEAL1,X,"Transcription elongation factor A (SII)-like 1",5
+TIMP1,X,"TIMP metallopeptidase inhibitor 1",2
+IRAK1,X,"Interleukin-1 receptor-associated kinase 1",1
+PAK3,X,"P21 (CDKN1A)-activated kinase 3",1
+TMSB4X,X,"Thymosin, beta 4, X-linked",1
+TAF1,X,"TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa",1
+SAT,X,"Spermidine/spermine N1-acetyltransferase",1
+AGTR2,X,"Angiotensin II receptor, type 2",1
+PGK1,X,"Phosphoglycerate kinase 1",1
+HPRT1,X,"Hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome)",1
+HY,Y,"Smcy homolog, Y-linked",1
