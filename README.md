@@ -1,7 +1,7 @@
 # Cancer Gene–Chromosome Association Analysis
 
 **Author:** Teddy Pomianek  
-**Course:** CS3200: Database Design  
+**Course:** CS3200: Introduction to Databases
 **Institution:** Northeastern University  
 
 This project explores the connection between human chromosomes and genes linked to cancer using data from the Genetic Association Database (GAD).  
