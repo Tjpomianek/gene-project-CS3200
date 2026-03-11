@@ -42,3 +42,9 @@ Identify chromosomes with higher concentrations of genes related to cancer by qu
      AND chromosome <> ''
    GROUP BY chromosome, gene, gene_name
    ORDER BY chromosome, gene_count DESC;
+
+## Results and Analysis
+
+The following visualization shows how Chromosomes 1, 6, and 17 are the chromosomes where Cancer-linked genes are most prevelant. 
+
+![Cancer-linked Gene Count by Chromosome](gene_count.png)
