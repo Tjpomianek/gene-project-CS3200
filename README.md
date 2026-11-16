@@ -38,7 +38,7 @@ The goal was to identify the chromosomes that are most frequently associated wit
      AND chromosome <> ''
    GROUP BY chromosome, gene, gene_name
    ORDER BY chromosome, gene_count DESC;
-  sql```
+   ```
 
 4. After running this SELECT query, the results were exported as "cancer_genes.csv" inside MySQLWorkbench.
 
